@@ -9,3 +9,5 @@
 1. BeforeEach and AfterEach
 1. Testing with Redux integrated
 1. Simulating Events
+1. Higher Order Components (HOC)
+1. Learning how middlewares work in React with Redux
